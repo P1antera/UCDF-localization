@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "DAHL侦察兵穿的经过改装的防弹衣。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "DAHL侦察防弹衣"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "防弹衣"
+  }
+]

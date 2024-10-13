@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一个装了额外弹药和氧气的背包."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "绝地潜兵氧气背包"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "背包"
+  }
+]

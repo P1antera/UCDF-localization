@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "DAHL雇佣兵穿的标准防弹衣。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "DAHL安保防弹衣"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "防弹衣"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "一个装治疗气体的氧气罐。但现在它只充满了氧气。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "Litznitsky队长的氧气罐"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "背包"
+  }
+]

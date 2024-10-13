@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "一副有色眼镜。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "达莉亚的眼镜"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "眼镜"
+  }
+]

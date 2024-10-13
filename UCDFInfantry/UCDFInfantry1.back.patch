@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种标准的步兵背包."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "标准步兵背包"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "背包"
+  }
+]

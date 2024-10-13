@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "联合殖民军绝地潜兵的重型突击头盔,这顶隶属于''卡尼特尔''驱逐舰队"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "卡尼特尔绝地潜兵重型头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "头盔"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种联合殖民绝地潜兵的陆战队防弹护腿."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "绝地潜兵陆战队防弹护腿"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "防弹护腿"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "一条改良的作战裤,内有额外衬垫。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "达莉亚的护腿"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "护腿"
+  }
+]

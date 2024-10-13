@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一顶军官帽,上面有明显的军衔."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "将军帽"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "帽子"
+  }
+]

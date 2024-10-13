@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "联合殖民军绝地潜兵的重型突击头盔,这顶隶属于''赫尔芬德''医疗舰队"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "赫尔芬德绝地潜兵重型头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "头盔"
+  }
+]

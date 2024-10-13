@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一件联合殖民军的衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "联合殖民衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "防弹衣"
+  }
+]

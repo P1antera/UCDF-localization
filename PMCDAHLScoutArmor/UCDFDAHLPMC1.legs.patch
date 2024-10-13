@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "DAHL侦察兵穿的经过改装的防弹护腿。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "DAHL侦察防弹护腿"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "腿部装甲"
+  }
+]

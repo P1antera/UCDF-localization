@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "联合殖民军绝地潜兵的无线电突击头盔,这顶隶属于''免疫''补给舰队"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "免疫绝地潜兵无线电头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "头盔"
+  }
+]

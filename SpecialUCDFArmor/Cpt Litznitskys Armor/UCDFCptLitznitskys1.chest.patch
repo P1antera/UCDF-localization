@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "一件防弹衣，上面紧紧地挂着一支霰弹枪。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "Litznitsky队长的防弹衣"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "防弹衣"
+  }
+]

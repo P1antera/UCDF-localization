@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "在沼泽需要注意的第一件事是小心鳄鱼。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "奔尼帽"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "帽子"
+  }
+]

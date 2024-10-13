@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "阿特拉斯军队配备的升级版防弹头盔。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "阿特拉斯重型防弹头盔"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "头盔"
+  }
+]

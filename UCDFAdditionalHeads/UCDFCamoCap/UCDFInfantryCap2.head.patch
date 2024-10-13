@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "标准联合殖民军侦察兵的帽子。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "侦察兵帽"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "帽子"
+  }
+]

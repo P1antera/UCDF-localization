@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "联合殖民军绝地潜兵佩戴的陆战队头盔,这顶隶属于''埃里帝安''研究舰队"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "埃里帝安潜兵头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "头盔"
+  }
+]

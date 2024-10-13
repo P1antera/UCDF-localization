@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "DAHL雇佣兵戴的标准防弹头盔。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "DAHL安保防弹头盔"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "防弹头盔"
+  }
+]

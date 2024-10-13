@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "在危险环境中使用的带呼吸器的联合殖民士兵头盔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "单兵环境保护头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "头盔"
+  }
+]

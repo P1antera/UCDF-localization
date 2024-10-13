@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "一种用于对付成群部队的备用榴弹发射器。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "掷弹兵装备"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "背部装备"
+  }
+]

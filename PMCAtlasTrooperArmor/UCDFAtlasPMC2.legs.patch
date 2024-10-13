@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "阿特拉斯军队配备的升级版防弹护腿。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "阿特拉斯重型防弹护腿"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "腿部装甲"
+  }
+]

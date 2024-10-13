@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "特种部队的贝雷帽。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "干员贝雷帽"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "帽子"
+  }
+]

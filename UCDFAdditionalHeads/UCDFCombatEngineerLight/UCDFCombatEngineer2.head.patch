@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "工兵戴的头盔,配有防弹面具。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "工兵头盔"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "头盔"
+  }
+]

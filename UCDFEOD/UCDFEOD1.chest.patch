@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+	"path": "/description",
+	"value": "联合殖民军爆炸物处理小组(EOD)佩戴的厚衬垫装甲胸甲。"
+  },  
+  {
+    "op": "replace",
+	"path": "/shortdescription",
+	"value": "EOD小组防弹衣"
+  },
+  {
+    "op": "replace",
+	"path": "/category",
+	"value": "防弹衣"
+  }
+]
