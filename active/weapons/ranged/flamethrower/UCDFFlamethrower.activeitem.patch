@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "火是一个文明的伟大发明，也是更伟大的战争武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "喷火器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "独特武器"
+  }
+]

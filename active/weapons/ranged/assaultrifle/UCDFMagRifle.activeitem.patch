@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种第三代动能武器，持续射击需要消耗大量能量,可以轻松地向目标发射电磁推进的钨铁弹丸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "电磁步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

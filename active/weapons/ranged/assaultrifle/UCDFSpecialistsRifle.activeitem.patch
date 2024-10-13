@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种主要由特种和工程部队使用的改进型Mk.46军用步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "特种步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

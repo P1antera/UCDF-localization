@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种不那么灵巧的中折式榴弹发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "破裂者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "榴弹发射器"
+  }
+]

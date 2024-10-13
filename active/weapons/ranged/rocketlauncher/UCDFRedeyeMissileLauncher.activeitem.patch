@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种防空导弹发射器，由于其跟踪模块上的红色塑料而被命名为''赤眼''。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''赤眼''导弹发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "导弹发射器"
+  }
+]

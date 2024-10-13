@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "手枪在很多方面都很好，比如像雷霆这样的左轮手枪就可以装下一把子弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "雷霆左轮"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

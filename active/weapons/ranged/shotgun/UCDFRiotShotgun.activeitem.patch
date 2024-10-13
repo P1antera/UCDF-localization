@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种非致命的泵动式霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "镇压霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "霰弹枪"
+  }
+]

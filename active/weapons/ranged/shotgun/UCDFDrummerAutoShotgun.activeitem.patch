@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种全自动弹鼓霰弹枪，专为UCDF部队的较重部队而设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''鼓点''霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "霰弹枪"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种小队配备的自动武器，所有军事单位都在使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "小队制式步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

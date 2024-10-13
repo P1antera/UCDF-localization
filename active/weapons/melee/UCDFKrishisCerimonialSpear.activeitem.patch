@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这把矛是克里希·克罗斯的珍贵财产。你哪搞到的?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "克里希定情信物"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "长矛"
+  }
+]

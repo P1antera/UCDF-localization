@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这是一支反器材步枪。但没规定不能反人员。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "反器材步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

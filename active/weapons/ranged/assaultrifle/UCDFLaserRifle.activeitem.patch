@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "几十年来，Mk.25激光步枪经历了许多升级，因此它较以前拥有了更好的射速和伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "激光步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

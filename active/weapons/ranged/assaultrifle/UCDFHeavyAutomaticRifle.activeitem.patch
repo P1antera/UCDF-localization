@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "联合殖民军重装部队使用的口径较大的重型自动武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "重型自动步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

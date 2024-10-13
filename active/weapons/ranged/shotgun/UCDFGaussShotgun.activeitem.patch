@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种发射铁钨箭形弹的能量武器，由联合殖民军部队的精英使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "高斯霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "霰弹枪"
+  }
+]

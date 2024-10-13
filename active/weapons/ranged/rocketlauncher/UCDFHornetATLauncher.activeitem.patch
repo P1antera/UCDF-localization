@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种小型的一次性反坦克火箭发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''大黄蜂''火箭发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "火箭发射器"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种转速较慢的榴弹发射器，能够发射巨大的霰弹枪弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "地狱火"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "榴弹发射器"
+  }
+]

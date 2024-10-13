@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种改进的Mk.46军用步枪，主要供跳帮部队使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "攻坚者步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

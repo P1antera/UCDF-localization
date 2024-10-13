@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种升级版的等离子步枪，只要能量充足，就能发射出近乎连续的放射性等离子束。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "重质粒投射器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

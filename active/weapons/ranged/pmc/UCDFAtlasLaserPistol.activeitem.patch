@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.12激光手枪。所有阿特拉斯安全部队配备的副武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "阿特拉斯''弧闪''手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

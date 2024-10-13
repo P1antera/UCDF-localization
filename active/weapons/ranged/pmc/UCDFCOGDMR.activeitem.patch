@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "GZ18是一种神枪手步枪。所有COG安全部队射手都使用这种武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "COG玛尔卡精确射手步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

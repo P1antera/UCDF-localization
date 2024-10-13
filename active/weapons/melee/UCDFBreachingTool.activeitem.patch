@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "主要用作上锁房间的突破工具，但在需要时也可以作为武器使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "破障工具"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "锤"
+  }
+]

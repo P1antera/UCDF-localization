@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.1C军用步枪。所有COG安全部队使用的主要武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "COG复古步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

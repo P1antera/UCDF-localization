@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种经过升级的紧凑型联合殖民军用手枪，所有军事单位都在使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "制式手枪MK.2"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

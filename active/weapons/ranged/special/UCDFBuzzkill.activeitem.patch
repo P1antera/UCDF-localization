@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "谁说不能用重型机器理发?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''扫''兴"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "独特武器"
+  }
+]

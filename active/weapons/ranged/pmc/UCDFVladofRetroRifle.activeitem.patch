@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.31C军用步枪。所有弗拉多夫安全部队使用的主武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "弗拉多夫''革命者''步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

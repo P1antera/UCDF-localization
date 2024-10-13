@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.3等离子步枪（通常称为放射步枪）是一种经过改装的激光发射器，可以持续地速度发射放射性等离子体球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "放射步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "我拍照的时候他们不在，这只是巧合。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''摄影师''"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "独特武器"
+  }
+]

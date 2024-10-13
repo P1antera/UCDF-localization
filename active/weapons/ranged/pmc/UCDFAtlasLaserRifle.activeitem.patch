@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.25C激光步枪。所有阿特拉斯安全部队使用的主武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "阿特拉斯弧光步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

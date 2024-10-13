@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "标准的联合殖民军用手枪，所有军事单位都在使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "制式手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

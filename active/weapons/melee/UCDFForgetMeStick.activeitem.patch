@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "^red;已损坏请勿使用.^reset;成为传奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''忘了我''"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "斧"
+  }
+]

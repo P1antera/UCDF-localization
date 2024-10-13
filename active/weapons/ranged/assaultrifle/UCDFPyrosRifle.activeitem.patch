@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "^red;已损坏,请勿使用^reset;一种改进的Mk.46军用步枪，主要由联合殖民军喷火(Pyro)部队使用，代替了火焰喷射器"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "喷火步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

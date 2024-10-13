@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种发射铁钨酸弹的阿特拉斯能源武器。这是所有阿特拉斯精确射手使用的专武。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "阿特拉斯XW121轨道炮"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

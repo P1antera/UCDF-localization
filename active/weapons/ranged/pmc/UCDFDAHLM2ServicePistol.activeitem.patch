@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种升级过的紧凑型Mk.2C手枪。所有DAHL安全部队的副武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "DAHL''解放者''手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

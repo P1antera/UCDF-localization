@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种主要用于阵地的大型链式榴弹发射器,对步兵来说有点笨重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "全自动''地狱投手''"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "榴弹发射器"
+  }
+]

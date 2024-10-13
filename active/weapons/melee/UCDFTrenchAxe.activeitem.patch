@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "攻坚干员用于近距离飞船战斗的短斧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "堑壕斧"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "斧头"
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "op": "replace",
+      "path": "/title",
+      "value": "UCDF招募手册"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "一张破旧的UCDF招募传单。"
+    },
+    {
+      "op": "replace",
+      "path": "/contentPages",
+      "value":  [
+  "联合殖民军需要你！
+
+穿越星空，踏上未知的世界，维护宇宙的和平。
+
+立即在UIR各殖民地最近的征兵中心入伍。
+
+在UCDF找到你的未来，团结就是力量。"
+
+  ]
+    }
+  ]

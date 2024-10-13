@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种口径较大的重型步枪，由联合殖民军部队的精英使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "重型射手步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

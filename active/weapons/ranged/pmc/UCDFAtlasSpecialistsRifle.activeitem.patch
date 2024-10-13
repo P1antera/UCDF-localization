@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种改进型Mk.46C军用步枪。所有阿特拉斯安全部队使用的特种武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "阿特拉斯治安步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "突击步枪"
+  }
+]

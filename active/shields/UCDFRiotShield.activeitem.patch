@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "维和任务中使用的防暴盾牌。以机动性为代价有效抵挡近战攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "联合殖民防暴盾牌"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;类型^reset;"
+  }
+]

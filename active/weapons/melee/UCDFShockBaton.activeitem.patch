@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "防暴警察常用的警棍，用于在维和任务中镇压愤怒的暴徒。这个带电,是电棍。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "电棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "短棍"
+  }
+]

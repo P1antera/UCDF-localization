@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种用于近距离战斗的笨重大型泵动霰弹枪。供所有COG安全部队使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "COG格纳舍尔霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "霰弹枪"
+  }
+]

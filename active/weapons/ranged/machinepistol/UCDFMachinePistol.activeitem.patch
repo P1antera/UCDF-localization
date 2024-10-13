@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "在某些特定军队单位手中能看到的一支经过改装的联合殖民军用手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "机关手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "冲锋枪"
+  }
+]

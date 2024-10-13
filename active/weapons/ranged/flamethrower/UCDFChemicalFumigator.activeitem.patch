@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "^red;已损坏,请勿使用.^reset; 它最初被用作防虫剂喷洒器，后来在战斗中使用，因为大多数东西碰到毒药后都不好过。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "化学喷雾器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "独特武器"
+  }
+]

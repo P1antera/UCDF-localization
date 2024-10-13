@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "口径较大的重型步枪。所有DAHL精确射手使用的特种武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "DAHL''将军''反器材步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

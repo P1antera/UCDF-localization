@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这种改良的微型冲锋枪安装了一个抑制器，非常适合在城市街道上进行近距离战斗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "干员冲锋枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "冲锋枪"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.42C是一种神枪手步枪。所有弗拉多夫精确射手使用的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "弗拉多夫''赤勇''精确射手步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "狙击步枪"
+  }
+]

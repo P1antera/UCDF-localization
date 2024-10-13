@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这种改进的冲锋枪可以更长时间地维持高射速射击。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "改进型冲锋枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "冲锋枪"
+  }
+]

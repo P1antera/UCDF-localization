@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Mk.4等离子手枪是一种激光手枪，经过改装后可以发射放射性等离子球，不再发射光束。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "等离子手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

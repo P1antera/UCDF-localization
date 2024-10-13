@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种由工具变成的基本武器，擅长破坏护甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''祈祷''"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "斧头"
+  }
+]

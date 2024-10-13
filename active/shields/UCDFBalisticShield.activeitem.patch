@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种防弹盾牌，用于保护使用者免受轻武器射击。仅被联合殖民重装部队使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "联合殖民军用防弹盾牌"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "盾牌"
+  }
+]

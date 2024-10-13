@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "手枪在很多方面都很好，比如像闪电这样的左轮手枪可以发射能让人''震惊''的子弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "闪电左轮"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "手枪"
+  }
+]

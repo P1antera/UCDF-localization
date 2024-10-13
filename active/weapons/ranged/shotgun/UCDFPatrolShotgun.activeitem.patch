@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种泵动式霰弹枪，适用于飞船上的近距离战斗，既可用于攻击，也可用于防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''搜寻者''霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "霰弹枪"
+  }
+]

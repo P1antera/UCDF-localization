@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种无情的反坦克火箭发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "''铜首''火箭发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "火箭发射器"
+  }
+]

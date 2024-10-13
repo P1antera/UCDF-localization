@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "这把扳手属于联合殖民军的首席技术人员德拉肯伯格。他可能想把它要回来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "多功能扳手"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "扳手"
+  }
+]

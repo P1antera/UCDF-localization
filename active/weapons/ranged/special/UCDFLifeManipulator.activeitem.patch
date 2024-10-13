@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "物质枪的组件用来将生命变成无命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "生命控制者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "独特武器"
+  }
+]
